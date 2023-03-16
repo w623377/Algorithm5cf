@@ -25,7 +25,7 @@ public class Code09_FindOneLessValueIndex {
 		}
 		return left;
 	}
-
+    //阿迪斯发
 	public static void printArray(int[] arr) {
 		for (int i = 0; i != arr.length; i++) {
 			System.out.print(arr[i] + " ");
